@@ -1,0 +1,1 @@
+Go pointer practise
